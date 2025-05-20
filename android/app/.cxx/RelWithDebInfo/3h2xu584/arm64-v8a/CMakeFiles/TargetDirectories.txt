@@ -1,0 +1,2 @@
+D:/bird_discovery_Backend/bird_discovery/wealth1/bird_discovery/wealth1/android/app/.cxx/RelWithDebInfo/3h2xu584/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/bird_discovery_Backend/bird_discovery/wealth1/bird_discovery/wealth1/android/app/.cxx/RelWithDebInfo/3h2xu584/arm64-v8a/CMakeFiles/rebuild_cache.dir

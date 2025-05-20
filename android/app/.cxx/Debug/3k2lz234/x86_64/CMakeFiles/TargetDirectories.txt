@@ -1,0 +1,2 @@
+/Users/4star/flutterprojects/bird_discovery_Backend/bird_discovery/wealth1/bird_discovery/wealth1/android/app/.cxx/Debug/3k2lz234/x86_64/CMakeFiles/edit_cache.dir
+/Users/4star/flutterprojects/bird_discovery_Backend/bird_discovery/wealth1/bird_discovery/wealth1/android/app/.cxx/Debug/3k2lz234/x86_64/CMakeFiles/rebuild_cache.dir

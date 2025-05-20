@@ -1,0 +1,2 @@
+C:/Users/hp/Downloads/bird_discovery-main/bird_discovery-main/android/app/.cxx/RelWithDebInfo/615u3x2q/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/hp/Downloads/bird_discovery-main/bird_discovery-main/android/app/.cxx/RelWithDebInfo/615u3x2q/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/hp/Downloads/bird_discovery-main/bird_discovery-main/android/app/.cxx/Debug/235e3n57/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/hp/Downloads/bird_discovery-main/bird_discovery-main/android/app/.cxx/Debug/235e3n57/x86_64/CMakeFiles/rebuild_cache.dir
